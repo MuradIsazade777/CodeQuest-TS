@@ -40,7 +40,7 @@ Or manually compile and run:
 bash
 npx tsc
 node dist/index.js
-
+---
 📁 Project Structure
 Code
 codequest/
@@ -69,4 +69,5 @@ Made with passion by Murad Leveling up one puzzle at a time.
 
 
 ---
-If you want, I can also help you generate a cool ASCII logo for the top of the README or add badges (like build status, version, etc.). Just say the word!
+If you want, I can also help you generate a cool ASCII logo for the top of the README
+or add badges (like build status, version, etc.). Just say the word!
