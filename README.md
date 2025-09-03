@@ -1,6 +1,8 @@
 # 🎮 CodeQuest: A JavaScript Puzzle Adventure
 
-**CodeQuest** is a terminal-based puzzle game built entirely with **JavaScript** and **TypeScript**, designed to challenge your coding intuition and logic. Each level presents a code snippet with missing pieces—your task is to solve the puzzle and progress through the quest. No browser, no UI—just pure code and brainpower.
+**CodeQuest** is a terminal-based puzzle game built entirely with **JavaScript** and **TypeScript**, designed to challenge your coding intuition and logic.
+Each level presents a code snippet with missing pieces—your task is to solve the puzzle and progress through the quest.
+No browser, no UI—just pure code and brainpower.
 
 ---
 
@@ -59,7 +61,8 @@ Your answer: array
 ✅ Correct!
 
  📣 Contribute
-Want to add new levels or features? Fork the repo and submit a pull request. Let’s make CodeQuest even more epic.
+Want to add new levels or features? Fork the repo and submit a pull request.
+Let’s make CodeQuest even more epic.
 
 📜 License
 This project is licensed under the MIT License.
