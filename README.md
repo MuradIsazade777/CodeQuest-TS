@@ -70,7 +70,6 @@ This project is licensed under the MIT License.
 🙌 Author
 Made with passion by Murad Leveling up one puzzle at a time.
 
-
 ---
 If you want, I can also help you generate a cool ASCII logo for the top of the README
 or add badges (like build status, version, etc.). Just say the word!
